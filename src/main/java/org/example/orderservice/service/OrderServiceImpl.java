@@ -6,7 +6,6 @@ import org.example.orderservice.dto.OrderDto;
 import org.example.orderservice.jpa.OrderEntity;
 import org.example.orderservice.jpa.OrderRepository;
 import org.example.orderservice.mapper.OrderMapper;
-import org.modelmapper.ModelMapper;
 import org.springframework.stereotype.Service;
 
 @Service
